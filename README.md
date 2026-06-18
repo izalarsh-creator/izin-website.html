@@ -1,2 +1,55 @@
 # izin-website.html
 photo editing web
+<html>
+<head>
+<title>Izin Website</title>
+</head>
+<body>
+<h1 style="color:red" >My Name is Izin</h1>
+<h2 style="color:blue">I am a boy</h2>
+<h3>I'm studying in Grade 7</h3>
+<h4 style="font-size: 34px;">In Broadway</h4>
+<p style="font-size:35px;">im a kid who loves to spent time in computer<P>
+
+<h1 style="font-size:45px;"> im a good editer i can edit photo</h1>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeApTlk8u3GFVU1khT8Y2fB04llQM5JwgL0InrpUIDeqZJyxw/viewform?usp=header" target="_blan"k>Link</a>
+<h2  style=" font-size:45px;"> this is a photo i edited<h2>
+<img src="C:\Users\izala\OneDrive\Pictures\Screenshots\Screenshot 2026-06-17 141348.png" style="height:200px"/>
+<img src="C:\Users\izala\OneDrive\Pictures\Screenshot_2026-06-04_104418.png"  style="height:200px"/>
+
+
+
+ <h2>HTML Forms</h2>
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="  "><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="  "><br><br>
+  <input type="submit" value="Submit">
+</form> 
+
+<p>If you click the "Submit" button, the form-data will be sent to a the onwer of the web".</p>
+ <A href="https://discord.gg/EZ79Ru2n"  target="_ blan"k>link</a> 
+<a href="https:/youtube.com/@IzinThunder"   target="_ blan"k>link</a>
+
+
+<a href="https://www.threads.com/@arshizinal?xmt=AQG0myN1n1sSg3fGirgxsBt1k87mS9JT179PuLcZhFd3YIk"target="_ blan"k>link</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</body>
+</html>
